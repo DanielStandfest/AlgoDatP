@@ -1,0 +1,91 @@
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csprojAssemblyReference.cache
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csproj.CoreCompileInputs.cache
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe.config
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.pdb
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.exe
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.pdb
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum CURRENT\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe.config
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum CURRENT\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum CURRENT\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.pdb
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum CURRENT\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csprojAssemblyReference.cache
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum CURRENT\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csproj.CoreCompileInputs.cache
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum CURRENT\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.exe
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum CURRENT\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.pdb
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.3\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe.config
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.3\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.3\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.pdb
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.3\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csprojAssemblyReference.cache
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.3\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csproj.CoreCompileInputs.cache
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.3\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.exe
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.3\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.pdb
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.4.2\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe.config
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.4.2\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.4.2\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.pdb
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.4.2\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csprojAssemblyReference.cache
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.4.2\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csproj.CoreCompileInputs.cache
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.4.2\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.exe
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.4.2\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.pdb
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.5\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe.config
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.5\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.5\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.pdb
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.5\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csprojAssemblyReference.cache
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.5\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csproj.CoreCompileInputs.cache
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.5\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.exe
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.5\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.pdb
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum my workspace\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe.config
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum my workspace\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum my workspace\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.pdb
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum my workspace\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csprojAssemblyReference.cache
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum my workspace\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csproj.CoreCompileInputs.cache
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum my workspace\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.exe
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum my workspace\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.pdb
+C:\Users\Michael\Downloads\AlgoDat Praktikum my workspace\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Downloads\AlgoDat Praktikum my workspace\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Downloads\AlgoDat Praktikum my workspace\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.exe
+C:\Users\Michael\Downloads\AlgoDat Praktikum my workspace\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.pdb
+C:\Users\Michael\Downloads\AlgoDat Praktikum my workspace\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe.config
+C:\Users\Michael\Downloads\AlgoDat Praktikum my workspace\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe
+C:\Users\Michael\Downloads\AlgoDat Praktikum my workspace\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.pdb
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.7.2\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe.config
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.7.2\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.7.2\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.pdb
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.7.2\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csprojAssemblyReference.cache
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.7.2\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csproj.CoreCompileInputs.cache
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.7.2\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.exe
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.7.2\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.pdb
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.7.2 TO WORK\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csprojAssemblyReference.cache
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.7.2 TO WORK\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csproj.CoreCompileInputs.cache
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.7.2 TO WORK\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.exe
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.7.2 TO WORK\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.pdb
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.7.2 TO WORK\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe.config
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.7.2 TO WORK\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.7.2 TO WORK\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.pdb
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.8\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe.config
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.8\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.8\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.pdb
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.8\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csprojAssemblyReference.cache
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.8\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csproj.CoreCompileInputs.cache
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.8\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.exe
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.8\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.pdb
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.8.1\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe.config
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.8.1\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.8.1\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.pdb
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.8.1\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csprojAssemblyReference.cache
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.8.1\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csproj.CoreCompileInputs.cache
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.8.1\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.exe
+C:\Users\Duc\Desktop\TH Nürnberg\3. Semester\Algorithmen und Datenstrukturen\AlgoDat Praktikum Dateien\AlgoDat Praktikum Patch 1.8.1\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.pdb
+C:\Users\danis\OneDrive\FH-Unterlagen\4.Semester\Algorithmen und Datenstrukturen\Praktikum\Neu\AlgoDat Praktikum Patch 1.8.1\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe.config
+C:\Users\danis\OneDrive\FH-Unterlagen\4.Semester\Algorithmen und Datenstrukturen\Praktikum\Neu\AlgoDat Praktikum Patch 1.8.1\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe
+C:\Users\danis\OneDrive\FH-Unterlagen\4.Semester\Algorithmen und Datenstrukturen\Praktikum\Neu\AlgoDat Praktikum Patch 1.8.1\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.pdb
+C:\Users\danis\OneDrive\FH-Unterlagen\4.Semester\Algorithmen und Datenstrukturen\Praktikum\Neu\AlgoDat Praktikum Patch 1.8.1\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csprojAssemblyReference.cache
+C:\Users\danis\OneDrive\FH-Unterlagen\4.Semester\Algorithmen und Datenstrukturen\Praktikum\Neu\AlgoDat Praktikum Patch 1.8.1\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csproj.CoreCompileInputs.cache
+C:\Users\danis\OneDrive\FH-Unterlagen\4.Semester\Algorithmen und Datenstrukturen\Praktikum\Neu\AlgoDat Praktikum Patch 1.8.1\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.exe
+C:\Users\danis\OneDrive\FH-Unterlagen\4.Semester\Algorithmen und Datenstrukturen\Praktikum\Neu\AlgoDat Praktikum Patch 1.8.1\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.pdb
+C:\Users\danis\OneDrive\FH-Unterlagen\4.Semester\Algorithmen und Datenstrukturen\Praktikum\Neu\AlgoDat Praktikum\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe.config
+C:\Users\danis\OneDrive\FH-Unterlagen\4.Semester\Algorithmen und Datenstrukturen\Praktikum\Neu\AlgoDat Praktikum\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.exe
+C:\Users\danis\OneDrive\FH-Unterlagen\4.Semester\Algorithmen und Datenstrukturen\Praktikum\Neu\AlgoDat Praktikum\AlgoDat Praktikum\bin\Debug\AlgoDat Praktikum.pdb
+C:\Users\danis\OneDrive\FH-Unterlagen\4.Semester\Algorithmen und Datenstrukturen\Praktikum\Neu\AlgoDat Praktikum\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csprojAssemblyReference.cache
+C:\Users\danis\OneDrive\FH-Unterlagen\4.Semester\Algorithmen und Datenstrukturen\Praktikum\Neu\AlgoDat Praktikum\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.csproj.CoreCompileInputs.cache
+C:\Users\danis\OneDrive\FH-Unterlagen\4.Semester\Algorithmen und Datenstrukturen\Praktikum\Neu\AlgoDat Praktikum\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.exe
+C:\Users\danis\OneDrive\FH-Unterlagen\4.Semester\Algorithmen und Datenstrukturen\Praktikum\Neu\AlgoDat Praktikum\AlgoDat Praktikum\obj\Debug\AlgoDat Praktikum.pdb
